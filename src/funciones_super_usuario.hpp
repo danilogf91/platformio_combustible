@@ -1,0 +1,14 @@
+int ESTADO_SUPER_1 ();
+int ESTADO_SUPER_2 ();
+int ESTADO_SUPER_3 ();
+int ESTADO_SUPER_4 ();
+int ESTADO_SUPER_5 ();
+void ESTADO_SUPER_6 ();
+int ESTADO_SUPER_7 ();
+int ESTADO_SUPER_8 ();
+int ESTADO_SUPER_9 ();
+int ESTADO_SUPER_10 ();
+int ESTADO_SUPER_11 ();
+int ESTADO_SUPER_12 ();
+
+
